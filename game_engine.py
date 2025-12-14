@@ -17,4 +17,3 @@ def remove_char(l1,l2):
             
     l3 = l1 + ['*'] + l2
     return [l3,False]
-
