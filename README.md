@@ -25,5 +25,28 @@ in FLAMES:
 
 ## Example 
 
-Input   ->
-Output  ->
+1. Input   ->
+2. Output  ->
+
+## Algorithm
+
+Counting is done in anti-clock wise fashion
+
+1. FLAMES
+
+counting is start from F, E is at 5th count so we remove E and start counting again but a this time start from S 
+2. FLAMS 
+
+M is at 5th count so we remove M and counting start from S 
+3. FLAS 
+
+S is at 5th count so we remove S and counting start from F 
+4. FLA 
+
+L is at 5th count so we remove L and counting start from A
+5. FA 
+
+A is at 5th count so we remove A. now we have only one letter is remaining so this is the final answer
+6. F 
+
+So, the relationship is F i.e. Friends 
