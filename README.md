@@ -25,8 +25,9 @@ in FLAMES:
 
 ## Example 
 
-1. Input   ->
-2. Output  ->
+1. Input   -> {virat kohli, anushka sharma}, {ranveer singh,deepika padukone}, {ranbir kapoor,alia bhatt}
+
+2. Output  -> Love, Siblings, Siblings
 
 ## Algorithm
 
